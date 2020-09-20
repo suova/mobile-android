@@ -1,0 +1,8 @@
+<resources>
+    <string name="moscow">Москва!</string>
+    <string name="still_moscow">Еще Москва!</string>
+    <string name="love">Любим</string>
+    <string name="this_love">Мы тоже любим Москву!!</string>
+    <string name="language_eng">Язык: рус</string>
+    <string name="button">Время</string>
+</resources>

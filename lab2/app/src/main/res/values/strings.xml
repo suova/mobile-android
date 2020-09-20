@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">lab_2</string>
+    <string name="moscow">Moscow!</string>
+    <string name="still_moscow">Still Moscow!</string>
+    <string name="love">Love</string>
+    <string name="this_love">We love Moscow too!!</string>
+    <string name="language_eng">Language: eng</string>
+    <string name="button">Button</string>
+</resources>
